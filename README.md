@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Xenosplitter
 - 🆔 My name is Casey Rodriguez
 - 🧑🏻 I am nonbinary! My pronouns are they, them, and theirs
-- 🌱 I’m currently learning Python, Spanish, Java, HTML, CSS, JS, Japanese, R, and more!
+- 🌱 I’m currently learning Python, Spanish, Java, HTML, CSS, JS, Japanese, R, SQL, and more!
 - 📫 You can reach me at my email, itsCaseyR@gmail.com
 
 <!---
